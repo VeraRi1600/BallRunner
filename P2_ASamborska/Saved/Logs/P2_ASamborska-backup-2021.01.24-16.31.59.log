@@ -1,0 +1,1859 @@
+﻿Log file open, 01/24/21 16:32:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: P2_ASamborska
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.537356
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/g/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Engine.ini]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Engine.ini]
+[2021.01.24-15.32.25:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Engine.ini]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.24-15.32.25:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Engine.ini]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.24-15.32.25:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Engine.ini]
+[2021.01.24-15.32.25:318][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Engine.ini]
+[2021.01.24-15.32.25:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.24-15.32.25:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.24-15.32.25:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.24-15.32.25:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:326][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.24-15.32.25:326][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.24-15.32.25:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.24-15.32.25:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.24-15.32.25:328][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.24-15.32.25:328][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.24-15.32.25:328][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.24-15.32.25:347][  0]LogHAL: Display: Platform has ~ 16 GB [17116282880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.24-15.32.25:347][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.01.24-15.32.25:347][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.24-15.32.25:347][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Scalability.ini]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.01.24-15.32.25:348][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.24-15.32.25:349][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.24-15.32.25:349][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.24-15.32.25:349][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Config/Windows/Engine.ini]
+[2021.01.24-15.32.25:349][  0]LogInit: Computer: DESKTOP-9S97J2U
+[2021.01.24-15.32.25:349][  0]LogInit: User: User
+[2021.01.24-15.32.25:349][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.24-15.32.25:349][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.24-15.32.25:349][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.24-15.32.25:349][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.24-15.32.25:349][  0]LogMemory: Process Physical Memory: 98.09 MB used, 98.09 MB peak
+[2021.01.24-15.32.25:349][  0]LogMemory: Process Virtual Memory: 89.98 MB used, 89.98 MB peak
+[2021.01.24-15.32.25:349][  0]LogMemory: Physical Memory: 7260.36 MB used,  9063.00 MB free, 16323.36 MB total
+[2021.01.24-15.32.25:349][  0]LogMemory: Virtual Memory: 4646.57 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2021.01.24-15.32.25:389][  0]LogInit: Using OS detected language (pl-PL).
+[2021.01.24-15.32.25:389][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.01.24-15.32.25:390][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.01.24-15.32.25:390][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.01.24-15.32.25:391][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.01.24-15.32.25:391][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.01.24-15.32.25:391][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.01.24-15.32.25:391][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.01.24-15.32.25:391][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.01.24-15.32.25:391][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.01.24-15.32.25:392][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.24-15.32.25:418][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.24-15.32.25:418][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.24-15.32.25:652][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.24-15.32.25:652][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.24-15.32.25:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.01.24-15.32.25:732][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.24-15.32.25:734][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.24-15.32.25:734][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.24-15.32.25:734][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.24-15.32.25:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.24-15.32.25:740][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.24-15.32.25:740][  0]LogWindows: EnumDisplayDevices:
+[2021.01.24-15.32.25:740][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.01.24-15.32.25:740][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2021.01.24-15.32.25:741][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.01.24-15.32.25:741][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.01.24-15.32.25:741][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.24-15.32.25:741][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.01.24-15.32.25:741][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2021.01.24-15.32.25:741][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2021.01.24-15.32.25:741][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.01.24-15.32.25:789][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.24-15.32.25:792][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.24-15.32.25:792][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.24-15.32.25:792][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.01.24-15.32.25:800][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.24-15.32.26:067][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.01.24-15.32.26:077][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.01.24-15.32.26:087][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.01.24-15.32.26:097][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.01.24-15.32.26:108][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.01.24-15.32.26:118][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.01.24-15.32.26:128][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.24-15.32.26:138][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.01.24-15.32.26:143][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.01.24-15.32.26:202][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.01.24-15.32.26:204][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.01.24-15.32.26:246][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.01.24-15.32.26:246][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.01.24-15.32.26:264][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.01.24-15.32.26:264][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.01.24-15.32.26:274][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.01.24-15.32.26:283][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.24-15.32.26:293][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.01.24-15.32.26:302][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.01.24-15.32.26:335][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.01.24-15.32.26:335][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.01.24-15.32.26:336][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.24-15.32.26:342][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.24-15.32.26:373][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../studia/programowanie/ballrunner/P2_ASamborska/Intermediate/Shaders/WorkingDirectory/9444/).
+[2021.01.24-15.32.26:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/556BEA20409C777AA892BDAD4F9EB841/'.
+[2021.01.24-15.32.26:374][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.24-15.32.26:375][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.24-15.32.26:375][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.24-15.32.26:828][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.24-15.32.26:866][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.24-15.32.26:867][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.01.24-15.32.26:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../studia/programowanie/ballrunner/P2_ASamborska/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.24-15.32.26:867][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.24-15.32.26:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../studia/programowanie/ballrunner/P2_ASamborska/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.24-15.32.26:867][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.24-15.32.26:876][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.24-15.32.26:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.24-15.32.26:876][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.24-15.32.26:889][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.24-15.32.26:889][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.24-15.32.26:889][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.24-15.32.26:905][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.24-15.32.26:906][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.24-15.32.26:907][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.24-15.32.26:995][  0]LogAssetRegistry: FAssetRegistry took 0.0306 seconds to start up
+[2021.01.24-15.32.27:237][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.24-15.32.27:340][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.24-15.32.27:340][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.24-15.32.27:340][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.24-15.32.27:340][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.24-15.32.27:340][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.24-15.32.27:349][  0]LogNetVersion: P2_ASamborska 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 564879965)
+[2021.01.24-15.32.27:657][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.031457 seconds
+[2021.01.24-15.32.27:661][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.01.24-15.32.27:661][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.01.24-15.32.27:661][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.24-15.32.28:455][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.24-15.32.28:467][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.24-15.32.28:568][  0]SourceControl: Source control is disabled
+[2021.01.24-15.32.28:568][  0]SourceControl: Source control is disabled
+[2021.01.24-15.32.28:569][  0]SourceControl: Source control is disabled
+[2021.01.24-15.32.28:570][  0]SourceControl: Source control is disabled
+[2021.01.24-15.32.28:627][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.24-15.32.28:708][  0]LogOcInput: OculusInput pre-init called
+[2021.01.24-15.32.29:454][  0]LogEngine: Initializing Engine...
+[2021.01.24-15.32.29:455][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.24-15.32.29:455][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.24-15.32.29:612][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.24-15.32.29:620][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.24-15.32.29:649][  0]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.24-15.32.29:669][  0]LogInit: FAudioDevice initialized.
+[2021.01.24-15.32.29:669][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.24-15.32.29:734][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.01.24-15.32.29:742][  0]LogInit: Texture streaming: Enabled
+[2021.01.24-15.32.29:755][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.24-15.32.29:768][  0]LogInit: Transaction tracking system initialized
+[2021.01.24-15.32.29:781][  0]BlueprintLog: New page: Editor Load
+[2021.01.24-15.32.29:832][  0]LocalizationService: Localization service is disabled
+[2021.01.24-15.32.30:409][  0]LogFileCache: Scanning file cache for directory 'D:/studia/programowanie/ballrunner/P2_ASamborska/Content/' took 0.01s
+[2021.01.24-15.32.30:409][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.24-15.32.30:409][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.24-15.32.30:548][  0]SourceControl: Source control is disabled
+[2021.01.24-15.32.30:548][  0]Cmd: MAP LOAD FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.24-15.32.30:548][  0]LightingResults: New page: Lighting Build
+[2021.01.24-15.32.30:550][  0]MapCheck: New page: Map Check
+[2021.01.24-15.32.30:550][  0]LightingResults: New page: Lighting Build
+[2021.01.24-15.32.30:573][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.24-15.32.30:705][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.24-15.32.30:709][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.24-15.32.30:732][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.01.24-15.32.30:732][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.24-15.32.30:732][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2021.01.24-15.32.30:732][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.185
+[2021.01.24-15.32.30:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.32.30:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.32.30:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.32.30:831][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.32.30:835][  0]LogCollectionManager: Loaded 0 collections in 0.001046 seconds
+[2021.01.24-15.32.30:872][  0]LogFileCache: Scanning file cache for directory 'D:/studia/programowanie/ballrunner/P2_ASamborska/Saved/Collections/' took 0.01s
+[2021.01.24-15.32.30:872][  0]LogFileCache: Scanning file cache for directory 'D:/studia/programowanie/ballrunner/P2_ASamborska/Content/Developers/User/Collections/' took 0.01s
+[2021.01.24-15.32.30:872][  0]LogFileCache: Scanning file cache for directory 'D:/studia/programowanie/ballrunner/P2_ASamborska/Content/Collections/' took 0.01s
+[2021.01.24-15.32.30:872][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.01.24-15.32.30:878][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2732 classes and 659 folders.
+[2021.01.24-15.32.30:882][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.24-15.32.30:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.24-15.32.30:954][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.24-15.32.30:958][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.01.24-15.32.30:972][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.24-15.32.30:974][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.24-15.32.30:977][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.24-15.32.31:024][  0]LogRenderer: Reallocating scene render targets to support 1220x516 Format 9 NumSamples 1 (Frame:1).
+[2021.01.24-15.32.31:113][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.24-15.32.31:114][  0]LogLoad: (Engine Initialization) Total time: 8.42 seconds
+[2021.01.24-15.32.31:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.24-15.32.31:148][  0]LogAssetRegistry: Asset discovery search completed in 4.1754 seconds
+[2021.01.24-15.32.31:149][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.01.24-15.32.31:150][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2021.01.24-15.32.31:151][  0]LogContentStreaming: Texture pool size now 600 MB
+[2021.01.24-15.32.31:180][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.24-15.32.32:476][  4]LogSlate: Took 0.000918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.24-15.32.38:892][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.32.44:853][682]LogAIModule: Creating AISystem for world Start
+[2021.01.24-15.32.44:859][682]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Start.Start
+[2021.01.24-15.32.44:881][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.24-15.32.44:882][682]Cmd: MAP LOAD FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.24-15.32.44:882][682]LightingResults: New page: Lighting Build
+[2021.01.24-15.32.44:882][682]LoadErrors: New page: Loading map: Start.umap
+[2021.01.24-15.32.44:883][682]MapCheck: New page: Map Check
+[2021.01.24-15.32.44:883][682]LightingResults: New page: Lighting Build
+[2021.01.24-15.32.44:904][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.01.24-15.32.44:907][682]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.24-15.32.44:930][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.01.24-15.32.44:949][682]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.24-15.32.44:949][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,072ms to complete.
+[2021.01.24-15.32.44:949][682]LogFileHelpers: Loading map 'Start' took 0.067
+[2021.01.24-15.32.48:813][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.32.48:912][154]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.32.48:922][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.32.48:922][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.32.48:922][154]PIE: New page: PIE session: Start (24 sty 2021, 17:32:48)
+[2021.01.24-15.32.48:934][154]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Start
+[2021.01.24-15.32.48:938][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003929s)
+[2021.01.24-15.32.48:938][154]LogAIModule: Creating AISystem for world Start
+[2021.01.24-15.32.48:938][154]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2021.01.24-15.32.48:938][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Start.Start to /Game/Levels/UEDPIE_0_Start.Start (0.004640s)
+[2021.01.24-15.32.48:961][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.24-15.32.48:977][154]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.24-15.32.48:991][154]LogInit: FAudioDevice initialized.
+[2021.01.24-15.32.49:028][154]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.24-15.32.49:030][154]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2021.01.24-16.32.49
+[2021.01.24-15.32.49:030][154]LogWorld: Bringing up level for play took: 0.000883
+[2021.01.24-15.32.49:046][154]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.01.24-15.32.49:046][154]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Start 0,327
+[2021.01.24-15.32.49:047][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.32.54:916][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.32.54:916][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.32.54:947][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.32.54:947][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.32.54:973][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.32.54:975][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.01.24-15.32.55:022][862]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.01.24-15.32.55:839][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.32.55:914][969]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.32.55:923][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.32.55:923][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.32.55:923][969]PIE: New page: PIE session: Start (24 sty 2021, 17:32:55)
+[2021.01.24-15.32.55:923][969]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Start
+[2021.01.24-15.32.55:927][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003975s)
+[2021.01.24-15.32.55:928][969]LogAIModule: Creating AISystem for world Start
+[2021.01.24-15.32.55:928][969]LogPlayLevel: PIE: World Init took: (0.000398s)
+[2021.01.24-15.32.55:928][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Start.Start to /Game/Levels/UEDPIE_0_Start.Start (0.004463s)
+[2021.01.24-15.32.55:949][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.24-15.32.55:966][969]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.24-15.32.55:979][969]LogInit: FAudioDevice initialized.
+[2021.01.24-15.32.56:006][969]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.24-15.32.56:007][969]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2021.01.24-16.32.56
+[2021.01.24-15.32.56:007][969]LogWorld: Bringing up level for play took: 0.000755
+[2021.01.24-15.32.56:019][969]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Start -0,701
+[2021.01.24-15.32.56:019][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.33.15:495][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.33.15:495][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.33.15:523][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.33.15:523][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.33.15:549][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.33.15:551][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.24-15.33.15:602][311]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.01.24-15.33.20:328][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.33.20:728][926]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.33.20:738][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.33.20:738][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.33.20:738][926]PIE: New page: PIE session: Start (24 sty 2021, 17:33:20)
+[2021.01.24-15.33.20:738][926]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Start
+[2021.01.24-15.33.20:742][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004021s)
+[2021.01.24-15.33.20:742][926]LogAIModule: Creating AISystem for world Start
+[2021.01.24-15.33.20:742][926]LogPlayLevel: PIE: World Init took: (0.000399s)
+[2021.01.24-15.33.20:742][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Start.Start to /Game/Levels/UEDPIE_0_Start.Start (0.004512s)
+[2021.01.24-15.33.20:763][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.24-15.33.20:779][926]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.24-15.33.20:793][926]LogInit: FAudioDevice initialized.
+[2021.01.24-15.33.20:822][926]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.24-15.33.20:823][926]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2021.01.24-16.33.20
+[2021.01.24-15.33.20:823][926]LogWorld: Bringing up level for play took: 0.000739
+[2021.01.24-15.33.20:836][926]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Start 0,116
+[2021.01.24-15.33.20:836][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.33.21:367][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.33.21:367][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.33.21:393][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.33.21:393][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.33.21:418][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.33.21:420][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.01.24-15.33.21:470][995]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.24-15.36.14:214][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2021.01.24-15.36.14:395][359]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2021.01.24-15.36.14:992][359]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.24-15.36.15:027][360]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.24-15.39.09:935][292]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.01.24-15.39.10:058][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.01.24-15.39.16:155][ 16]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.24-15.39.27:328][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.39.27:445][329]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.39.27:457][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.39.27:457][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.39.27:457][329]PIE: New page: PIE session: Start (24 sty 2021, 17:39:27)
+[2021.01.24-15.39.27:457][329]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Start
+[2021.01.24-15.39.27:462][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004147s)
+[2021.01.24-15.39.27:462][329]LogAIModule: Creating AISystem for world Start
+[2021.01.24-15.39.27:462][329]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2021.01.24-15.39.27:462][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Start.Start to /Game/Levels/UEDPIE_0_Start.Start (0.004697s)
+[2021.01.24-15.39.27:490][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.01.24-15.39.27:508][329]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.24-15.39.27:521][329]LogInit: FAudioDevice initialized.
+[2021.01.24-15.39.27:547][329]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.24-15.39.27:548][329]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2021.01.24-16.39.27
+[2021.01.24-15.39.27:548][329]LogWorld: Bringing up level for play took: 0.000766
+[2021.01.24-15.39.27:561][329]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Start 0,841
+[2021.01.24-15.39.27:561][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.39.36:759][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.39.36:759][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.39.36:789][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.39.36:789][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.39.36:816][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.39.36:819][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.01.24-15.39.36:861][436]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.24-15.40.20:102][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.40.54:025][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.40.54:857][462]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.01.24-15.40.55:859][579]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.01.24-15.40.56:469][648]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.01.24-15.40.59:271][980]Cmd: EDIT COPY
+[2021.01.24-15.40.59:532][995]Cmd: EDIT PASTE
+[2021.01.24-15.41.14:100][706]LogEditorViewport: Clicking Background
+[2021.01.24-15.41.50:575][  1]LogEditorViewport: Clicking Background
+[2021.01.24-15.42.01:888][343]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-15.42.04:672][673]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2021.01.24-15.42.08:367][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.42.09:621][263]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.24-15.42.11:892][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.42.44:925][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.42.48:670][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-15.42.49:871][  1]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.01.24-15.42.51:817][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.42.58:794][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.43.01:437][ 75]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.43.22:907][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.43.30:997][578]Cmd: TRANSACTION UNDO
+[2021.01.24-15.43.30:997][578]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.43.31:014][578]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.43.31:014][578]LogGeometryMode: Warning: Unable to resolve BoxBrush13 Brush in new BSP, see above
+[2021.01.24-15.43.31:014][578]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.43.31:889][680]Cmd: TRANSACTION UNDO
+[2021.01.24-15.43.31:889][680]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.43.32:509][752]Cmd: TRANSACTION UNDO
+[2021.01.24-15.43.32:509][752]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.43.32:520][752]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.43.32:520][752]LogGeometryMode: Warning: Unable to resolve BoxBrush13 Brush in new BSP, see above
+[2021.01.24-15.43.32:520][752]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.43.36:733][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.43.45:166][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.43.58:972][881]Cmd: TRANSACTION UNDO
+[2021.01.24-15.43.58:972][881]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.43.58:983][881]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.43.58:983][881]LogGeometryMode: Warning: Unable to resolve BoxBrush13 Brush in new BSP, see above
+[2021.01.24-15.43.58:983][881]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.43.59:517][918]Cmd: TRANSACTION UNDO
+[2021.01.24-15.43.59:517][918]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.43.59:534][918]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.43.59:534][918]LogGeometryMode: Warning: Unable to resolve BoxBrush13 Brush in new BSP, see above
+[2021.01.24-15.43.59:534][918]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.44.03:084][341]Cmd: TRANSACTION UNDO
+[2021.01.24-15.44.03:084][341]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.44.24:773][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.44.30:799][550]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.01.24-15.44.34:439][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.44.36:096][  0]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.45.07:816][721]LogEditorViewport: Clicking Background
+[2021.01.24-15.46.12:044][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.46.16:119][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.46.17:473][790]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.46.52:954][942]LogEditorViewport: Clicking Background
+[2021.01.24-15.47.03:364][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.47.06:969][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.48.11:108][ 89]LogEditorViewport: Clicking Background
+[2021.01.24-15.48.18:350][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.48.21:625][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.48.22:797][349]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.48.32:872][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.48.50:754][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.48.52:300][681]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.49.06:977][414]Cmd: TRANSACTION UNDO
+[2021.01.24-15.49.06:977][414]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.49.06:987][414]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-15.49.06:987][414]LogGeometryMode: Warning: Unable to resolve BoxBrush13 Brush in new BSP, see above
+[2021.01.24-15.49.06:987][414]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.50.02:993][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.50.04:249][977]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.50.11:277][803]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2021.01.24-15.50.11:277][803]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.50.37:458][873]LogEditorViewport: Clicking Background
+[2021.01.24-15.50.41:362][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.50.41:453][351]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.50.41:468][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.50.41:468][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.50.41:468][351]PIE: New page: PIE session: Start (24 sty 2021, 17:50:41)
+[2021.01.24-15.50.41:468][351]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Start
+[2021.01.24-15.50.41:475][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006214s)
+[2021.01.24-15.50.41:475][351]LogAIModule: Creating AISystem for world Start
+[2021.01.24-15.50.41:475][351]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2021.01.24-15.50.41:475][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Start.Start to /Game/Levels/UEDPIE_0_Start.Start (0.006826s)
+[2021.01.24-15.50.41:500][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.24-15.50.41:518][351]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.24-15.50.41:533][351]LogInit: FAudioDevice initialized.
+[2021.01.24-15.50.41:560][351]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.24-15.50.41:561][351]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2021.01.24-16.50.41
+[2021.01.24-15.50.41:561][351]LogWorld: Bringing up level for play took: 0.000888
+[2021.01.24-15.50.41:574][351]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Start 0,855
+[2021.01.24-15.50.41:574][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.50.53:124][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.50.53:124][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.50.53:149][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.50.53:149][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.50.53:178][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.50.53:181][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.01.24-15.50.53:227][741]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.24-15.51.03:536][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.51.03:627][989]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.24-15.51.03:640][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.51.03:640][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.24-15.51.03:640][989]PIE: New page: PIE session: Start (24 sty 2021, 17:51:03)
+[2021.01.24-15.51.03:640][989]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Start
+[2021.01.24-15.51.03:647][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005949s)
+[2021.01.24-15.51.03:647][989]LogAIModule: Creating AISystem for world Start
+[2021.01.24-15.51.03:647][989]LogPlayLevel: PIE: World Init took: (0.000398s)
+[2021.01.24-15.51.03:647][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Start.Start to /Game/Levels/UEDPIE_0_Start.Start (0.006600s)
+[2021.01.24-15.51.03:672][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.24-15.51.03:688][989]LogInit: XAudio2 using 'Głośniki (Sound Blaster Play! 3)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.01.24-15.51.03:702][989]LogInit: FAudioDevice initialized.
+[2021.01.24-15.51.03:727][989]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.24-15.51.03:729][989]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Start.Start up for play (max tick rate 0) at 2021.01.24-16.51.03
+[2021.01.24-15.51.03:729][989]LogWorld: Bringing up level for play took: 0.000854
+[2021.01.24-15.51.03:741][989]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Start 1,022
+[2021.01.24-15.51.03:741][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.51.04:380][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.51.04:380][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.51.04:407][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.24-15.51.04:407][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Start.Start:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Start.Start:PersistentLevel.Start' with GeneratedClass '/Game/Levels/Start.Start_C' with ClassGeneratedBy '/Game/Levels/Start.Start:PersistentLevel.Start'
+[2021.01.24-15.51.04:437][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.24-15.51.04:440][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.01.24-15.51.04:482][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.24-15.51.14:391][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.51.25:340][553]Cmd: POLY SELECT MATCHING BRUSH
+[2021.01.24-15.51.33:649][459]LogEditorViewport: Clicking Background
+[2021.01.24-15.51.43:068][564]Cmd: EDIT COPY
+[2021.01.24-15.51.43:315][593]Cmd: EDIT PASTE
+[2021.01.24-15.52.39:328][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.52.39:446][694]LogActorFactory: Actor Factory created Cube
+[2021.01.24-15.52.40:285][789]LogActorFactory: Actor Factory created Cube
+[2021.01.24-15.52.41:790][960]Cmd: DELETE
+[2021.01.24-15.52.41:790][960]Cmd: ACTOR DELETE
+[2021.01.24-15.52.41:805][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.24-15.52.41:833][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.24-15.52.41:833][960]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.01.24-15.52.43:248][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.52.46:296][487]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.24-15.52.54:363][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.53.10:986][417]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush19)
+[2021.01.24-15.53.12:345][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.53.14:586][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.53.16:186][850]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.53.22:943][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.53.59:279][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.54.01:566][  2]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.54.12:200][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.54.35:456][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.54.36:757][ 14]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.54.42:351][670]Cmd: TRANSACTION UNDO
+[2021.01.24-15.54.42:351][670]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.54.42:817][700]Cmd: TRANSACTION UNDO
+[2021.01.24-15.54.42:817][700]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.54.42:830][700]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.54.42:830][700]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.54.42:830][700]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.54.44:104][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.54.58:316][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.55.08:864][745]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.08:864][745]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.08:879][745]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-15.55.08:879][745]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.08:879][745]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.18:625][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.55.19:715][890]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.55.27:515][796]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.27:515][796]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.27:532][796]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.55.27:532][796]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.27:532][796]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.28:363][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.55.38:837][131]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.38:837][131]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.38:860][131]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.55.38:860][131]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.38:860][131]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.39:100][145]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.39:100][145]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.55.39:323][164]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.39:323][164]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.55.39:342][164]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.55.39:343][164]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.39:343][164]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.39:517][182]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.39:517][182]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.55.40:025][241]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.40:025][241]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.40:047][241]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-15.55.40:047][241]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.40:047][241]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.40:297][269]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.40:297][269]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.40:319][269]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-15.55.40:319][269]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.40:319][269]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.40:558][296]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.40:558][296]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.55.40:835][327]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.40:835][327]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.41:065][350]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.41:065][350]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.41:299][374]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.41:299][374]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.41:549][400]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.41:549][400]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.41:795][425]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.41:795][425]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.42:062][453]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.42:062][453]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.55.42:288][478]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.42:288][478]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.55.42:633][517]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.42:633][517]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.55.42:920][550]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.42:920][550]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.42:942][550]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-15.55.42:942][550]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.42:943][550]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.43:203][579]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.43:203][579]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.55.43:217][579]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-15.55.43:218][579]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.43:218][579]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.43:464][607]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.43:464][607]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.55.43:740][638]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.43:740][638]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.55.44:652][746]Cmd: TRANSACTION UNDO
+[2021.01.24-15.55.44:652][746]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-15.55.44:669][746]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.55.44:669][746]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.55.44:669][746]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.55.46:484][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.55.47:457][ 76]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.01.24-15.55.57:808][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.55.59:114][318]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.56.14:152][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.56.50:201][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.56.51:430][335]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.57.03:991][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.57.20:139][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.57.21:517][719]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-15.57.32:616][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.57.53:262][434]Cmd: TRANSACTION UNDO
+[2021.01.24-15.57.53:262][434]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.57.53:285][434]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.57.53:285][434]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.57.53:285][434]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.57.58:364][998]LogEditorViewport: Clicking Background
+[2021.01.24-15.58.21:452][736]Cmd: TRANSACTION UNDO
+[2021.01.24-15.58.21:453][736]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.58.21:778][757]Cmd: TRANSACTION UNDO
+[2021.01.24-15.58.21:778][757]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.58.21:793][757]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.58.21:793][757]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-15.58.21:793][757]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-15.58.22:131][788]Cmd: TRANSACTION UNDO
+[2021.01.24-15.58.22:131][788]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-15.58.22:465][825]Cmd: TRANSACTION UNDO
+[2021.01.24-15.58.22:465][825]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-15.58.51:554][285]Cmd: EDIT COPY
+[2021.01.24-15.58.51:851][320]Cmd: EDIT PASTE
+[2021.01.24-15.58.58:903][127]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush10)
+[2021.01.24-15.59.00:516][307]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-15.59.07:442][ 94]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-15.59.09:811][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-15.59.21:481][699]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-15.59.31:537][862]Cmd: TRANSACTION UNDO
+[2021.01.24-15.59.31:537][862]LogEditorTransaction: Undo Move Actors
+[2021.01.24-15.59.31:556][862]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-15.59.31:556][862]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-15.59.31:556][862]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.00.08:182][113]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.08:182][113]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.08:210][113]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2021.01.24-16.00.08:210][113]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.00.08:210][113]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.00.08:567][144]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.08:567][144]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.08:591][144]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2021.01.24-16.00.08:592][144]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.00.08:592][144]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.00.09:044][195]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.09:044][195]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.09:067][195]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2021.01.24-16.00.09:067][195]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.00.09:067][195]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.00.09:547][250]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.09:547][250]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-16.00.15:874][990]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.15:874][990]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.00.17:966][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.00.26:906][262]LogGeomTools: Triangulation of poly failed.
+[2021.01.24-16.00.29:732][590]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.29:732][590]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.30:309][630]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.30:309][630]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.30:329][630]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.00.30:329][630]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.00.30:329][630]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.00.41:764][928]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.41:764][928]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.47:321][560]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.47:321][560]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.47:331][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2843' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:331][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2843.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:331][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2844' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:331][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2844.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2845' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2845.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2846' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2846.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2847' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2847.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2848' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2848.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2849' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2849.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2850' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2850.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2851' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2851.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2852' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2852.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2853' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:332][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2853.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2854' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2854.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2855' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2855.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2856' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2856.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2857' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2857.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2858' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2858.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2859' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2859.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2860' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2860.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2861' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:333][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2861.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:334][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2862' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:334][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2862.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:334][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2863' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:334][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2863.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:334][560]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2864' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.47:334][560]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2864.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.47:340][560]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.00.47:340][560]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.00.47:340][560]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.00.56:788][639]LogEditorViewport: Clicking Background
+[2021.01.24-16.00.57:477][721]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.57:477][721]LogEditorTransaction: Undo Clicking Background
+[2021.01.24-16.00.57:824][759]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.57:824][759]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-16.00.58:256][808]Cmd: TRANSACTION UNDO
+[2021.01.24-16.00.58:256][808]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2843' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2843.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2844' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2844.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2845' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2845.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2846' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2846.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2847' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2847.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2848' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2848.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2849' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:266][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2849.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2850' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2850.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2851' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2851.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2852' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2852.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2853' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2853.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2854' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2854.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2855' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2855.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2856' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2856.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2857' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2857.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:267][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2858' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2858.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2859' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2859.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2860' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2860.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2861' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2861.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2862' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2862.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2863' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2863.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_2864' invalid (1662 verts, 0 indices).
+[2021.01.24-16.00.58:268][808]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_2864.BodySetup_0 when we are unable to.
+[2021.01.24-16.00.58:274][808]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.00.58:274][808]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.00.58:274][808]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.00.58:798][868]LogEditorViewport: Clicking Background
+[2021.01.24-16.01.09:021][ 35]Cmd: TRANSACTION UNDO
+[2021.01.24-16.01.09:021][ 35]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.01.09:044][ 35]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.01.09:044][ 35]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.01.09:044][ 35]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.01.30:606][520]Cmd: TRANSACTION UNDO
+[2021.01.24-16.01.30:606][520]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.01.36:882][233]Cmd: TRANSACTION UNDO
+[2021.01.24-16.01.36:882][233]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.01.36:902][233]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.01.24-16.01.36:902][233]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.01.36:902][233]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.01.37:735][329]LogEditorViewport: Clicking Background
+[2021.01.24-16.02.40:093][548]LogGeomTools: Triangulation of poly failed.
+[2021.01.24-16.02.40:680][613]Cmd: TRANSACTION UNDO
+[2021.01.24-16.02.40:680][613]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.02.40:702][613]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.01.24-16.02.40:702][613]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.02.40:702][613]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.02.44:287][ 32]LogGeomTools: Triangulation of poly failed.
+[2021.01.24-16.03.15:902][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.03.17:287][596]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.03.26:663][659]Cmd: POLY SELECT ALL
+[2021.01.24-16.03.27:228][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.04.12:467][ 46]Cmd: TRANSACTION UNDO
+[2021.01.24-16.04.12:467][ 46]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.04.12:491][ 46]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-16.04.12:491][ 46]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.04.12:491][ 46]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.04.12:787][ 78]Cmd: TRANSACTION UNDO
+[2021.01.24-16.04.12:787][ 78]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-16.04.13:090][111]Cmd: TRANSACTION UNDO
+[2021.01.24-16.04.13:090][111]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-16.04.13:453][153]Cmd: TRANSACTION UNDO
+[2021.01.24-16.04.13:453][153]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-16.04.13:790][192]Cmd: TRANSACTION UNDO
+[2021.01.24-16.04.13:790][192]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.04.13:817][192]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2021.01.24-16.04.13:817][192]LogGeometryMode: Warning: Unable to resolve BoxBrush20 Brush in new BSP, see above
+[2021.01.24-16.04.13:817][192]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.04.51:357][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.04.53:920][800]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush20)
+[2021.01.24-16.04.57:606][223]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.04.58:787][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.04.59:710][474]Cmd: POLY SELECT MATCHING BRUSH
+[2021.01.24-16.05.00:292][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.06.06:950][283]Cmd: DELETE
+[2021.01.24-16.06.06:950][283]Cmd: ACTOR DELETE
+[2021.01.24-16.06.06:971][283]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.06.07:013][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.24-16.06.07:027][283]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2021.01.24-16.06.07:943][388]Cmd: DELETE
+[2021.01.24-16.06.07:943][388]Cmd: ACTOR DELETE
+[2021.01.24-16.06.07:953][388]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.06.07:982][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.24-16.06.07:992][388]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.01.24-16.06.09:159][526]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.06.09:168][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.24-16.06.09:199][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.24-16.06.09:652][526]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start04F0E3F4495AAC51CCFCB7ACB78BBDE7.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap'
+[2021.01.24-16.06.09:693][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start_BuiltData" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset" SILENT=true
+[2021.01.24-16.06.09:738][526]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start_BuiltData02907EF84351DB5E8A299EB38AD6AC6F.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset'
+[2021.01.24-16.09.04:040][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.09.04:159][452]LogActorFactory: Actor Factory created Cylinder
+[2021.01.24-16.09.09:501][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.09.09:671][113]LogActorFactory: Actor Factory created Cube
+[2021.01.24-16.09.11:664][352]LogActorFactory: Actor Factory created Cube
+[2021.01.24-16.09.12:105][402]Cmd: DELETE
+[2021.01.24-16.09.12:105][402]Cmd: ACTOR DELETE
+[2021.01.24-16.09.12:114][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.24-16.09.12:149][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.24-16.09.12:151][402]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.01.24-16.09.13:107][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.09.18:449][157]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.24-16.09.22:412][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.10.23:268][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.10.28:496][373]Cmd: POLY SELECT ALL
+[2021.01.24-16.10.29:667][512]Cmd: TRANSACTION UNDO
+[2021.01.24-16.10.29:667][512]LogEditorTransaction: Undo Select All
+[2021.01.24-16.10.30:092][558]Cmd: TRANSACTION UNDO
+[2021.01.24-16.10.30:092][558]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.10.30:107][558]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.01.24-16.10.30:107][558]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-16.10.30:107][558]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.10.44:397][965]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.10.45:901][138]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.10.47:695][343]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.10.48:632][451]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.10.52:502][906]Cmd: TRANSACTION UNDO
+[2021.01.24-16.10.52:502][906]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.11.02:399][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.11.04:215][ 74]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.11.05:381][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.11.10:378][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.11.26:052][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.11.30:719][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.11.40:885][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.11.42:142][359]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.11.44:148][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.11.54:126][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.12.03:920][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.12.16:255][294]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.12.21:447][876]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.21:447][876]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.21:746][907]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.21:746][907]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.12.21:754][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4533' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:754][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4533.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:754][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4534' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:754][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4534.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4535' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4535.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4536' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4536.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4537' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4537.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4538' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4538.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4539' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:755][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4539.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4540' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4540.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4541' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4541.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4542' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4542.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4543' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4543.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4544' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4544.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4545' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4545.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4546' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4546.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4547' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4547.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4548' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:756][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4548.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4549' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4549.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4550' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4550.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4551' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4551.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Start.Start:PersistentLevel.ModelComponent_4552' invalid (1009 verts, 0 indices).
+[2021.01.24-16.12.21:757][907]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Start.Start:PersistentLevel.ModelComponent_4552.BodySetup_0 when we are unable to.
+[2021.01.24-16.12.22:000][932]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.22:000][932]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.22:249][958]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.22:249][958]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.22:491][985]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.22:491][985]LogEditorTransaction: Undo Select Surface
+[2021.01.24-16.12.22:746][ 12]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.22:746][ 12]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.23:043][ 43]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.23:043][ 43]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.23:329][ 74]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.23:329][ 74]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.23:648][109]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.23:648][109]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.23:919][139]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.23:919][139]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.24:159][164]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.24:159][164]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2021.01.24-16.12.24:418][191]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.24:418][191]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.24:670][219]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.24:670][219]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.12.24:943][248]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.24:943][248]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.25:211][278]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.25:211][278]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.25:481][309]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.25:481][309]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.25:501][309]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.12.25:501][309]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-16.12.25:501][309]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.12.25:782][341]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.25:782][341]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.25:797][341]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.12.25:797][341]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-16.12.25:797][341]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.12.26:119][378]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.26:120][378]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.26:516][424]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.26:516][424]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.01.24-16.12.26:537][424]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.12.26:538][424]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-16.12.26:538][424]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.12.26:928][469]Cmd: TRANSACTION UNDO
+[2021.01.24-16.12.26:928][469]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.12.26:947][469]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.01.24-16.12.26:947][469]LogGeometryMode: Warning: Unable to resolve BoxBrush19 Brush in new BSP, see above
+[2021.01.24-16.12.26:947][469]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.12.32:420][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.12.39:675][909]LogGeometryMode: Warning: Unable to find BoxBrush8 Brush(s) in new BSP
+[2021.01.24-16.12.39:675][909]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.12.43:246][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.12.46:654][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.01:980][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.03:223][514]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.13.05:559][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.11:234][452]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush19)
+[2021.01.24-16.13.12:420][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.15:745][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.17:403][ 59]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.13.18:168][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.25:456][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.39:103][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.48:341][662]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.13.50:011][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.13.59:371][913]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.14.00:050][990]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.14.00:979][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.14.21:081][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.14.22:266][473]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.14.23:282][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.14.33:079][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.14.39:204][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.14.43:843][  2]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush19)
+[2021.01.24-16.15.50:880][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.16.02:991][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.16.04:036][335]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.16.05:011][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.16.25:758][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.16.33:058][746]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2021.01.24-16.16.33:058][746]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.16.42:106][792]Cmd: DELETE
+[2021.01.24-16.16.42:129][792]Cmd: ACTOR DELETE
+[2021.01.24-16.16.42:138][792]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.16.42:138][792]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.16.42:138][792]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.16.42:138][792]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.16.42:139][792]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.16.42:168][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.24-16.16.42:177][792]LogEditorActor: Deleted 5 Actors (0.048 secs)
+[2021.01.24-16.16.44:186][ 28]Cmd: EDIT COPY
+[2021.01.24-16.16.44:472][ 62]Cmd: EDIT PASTE
+[2021.01.24-16.17.01:365][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.17:974][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.21:862][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.23:302][379]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.17.24:471][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.27:486][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.36:920][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.38:381][988]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.01.24-16.17.39:420][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.42:219][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.47:387][ 47]LogGeometryMode: Warning: Unable to find BoxBrush14_21 Brush(s) in new BSP
+[2021.01.24-16.17.47:387][ 47]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.17.48:815][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.17.50:700][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.18.33:877][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.18.34:517][626]Cmd: POLY SELECT MATCHING BRUSH
+[2021.01.24-16.18.35:563][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.18.41:278][434]LogEditorViewport: Clicking Background
+[2021.01.24-16.18.42:406][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.18.46:567][ 38]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2021.01.24-16.18.47:976][203]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2021.01.24-16.18.49:019][325]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2021.01.24-16.18.49:922][430]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2021.01.24-16.18.52:219][701]Cmd: EDIT COPY
+[2021.01.24-16.18.54:235][942]Cmd: EDIT COPY
+[2021.01.24-16.18.54:488][972]Cmd: EDIT PASTE
+[2021.01.24-16.19.08:663][477]LogEditorViewport: Clicking Background
+[2021.01.24-16.19.09:595][588]Cmd: TRANSACTION UNDO
+[2021.01.24-16.19.09:595][588]LogEditorTransaction: Undo Clicking Background
+[2021.01.24-16.19.10:584][704]Cmd: EDIT COPY
+[2021.01.24-16.19.10:814][731]Cmd: EDIT PASTE
+[2021.01.24-16.19.24:020][300]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2021.01.24-16.19.35:102][576]LogEditorViewport: Clicking Background
+[2021.01.24-16.19.39:147][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.19.39:152][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.24-16.19.39:178][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.24-16.19.39:607][ 57]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/StartEF74D3CC493266E12CBD17A86A9D450C.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap'
+[2021.01.24-16.19.39:646][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start_BuiltData" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset" SILENT=true
+[2021.01.24-16.19.39:677][ 57]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start_BuiltData992590E14B80FCC8273FCCA6ED99CD7A.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset'
+[2021.01.24-16.19.57:957][215]Cmd: EDIT COPY
+[2021.01.24-16.19.58:219][246]Cmd: EDIT PASTE
+[2021.01.24-16.20.58:724][278]LogEditorViewport: Clicking Background
+[2021.01.24-16.21.05:118][ 23]LogEditorViewport: Clicking Background
+[2021.01.24-16.21.10:203][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.21.10:208][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.24-16.21.10:244][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.01.24-16.21.10:494][625]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/StartB005BD014A2C8D49F87FB8A9DA41B810.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap'
+[2021.01.24-16.21.10:522][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start_BuiltData" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset" SILENT=true
+[2021.01.24-16.21.10:549][625]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start_BuiltData9A29B71645E6F643CAD0DE9662BB02CC.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset'
+[2021.01.24-16.21.14:776][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.21.17:502][455]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.24-16.21.19:922][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.21.37:936][871]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush25)
+[2021.01.24-16.21.48:542][110]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush25)
+[2021.01.24-16.21.49:573][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.21.57:934][194]LogGeometryMode: Warning: Unable to find BoxBrush14_21 Brush(s) in new BSP
+[2021.01.24-16.21.57:934][194]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.21.59:897][420]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.03:087][795]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.05:521][ 71]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.06:183][146]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.06:838][220]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.07:634][311]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.08:222][377]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.12:613][885]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.13:343][968]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.13:747][ 12]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.14:141][ 55]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.14:537][ 98]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.22.20:883][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.22.20:887][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.24-16.22.20:919][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.24-16.22.21:129][841]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start303B8C0D4CEE374319611BBC3022EFFD.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap'
+[2021.01.24-16.22.21:156][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start_BuiltData" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset" SILENT=true
+[2021.01.24-16.22.21:182][841]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start_BuiltData45CF2EB74073A9D857292185E0793118.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset'
+[2021.01.24-16.26.58:272][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.27.01:497][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.27.03:920][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.27.16:327][153]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.27.17:545][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.27.18:935][458]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.27.19:845][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.27.28:629][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.27.30:648][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.27.31:722][962]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.27.33:990][226]Cmd: DELETE
+[2021.01.24-16.27.34:009][226]Cmd: ACTOR DELETE
+[2021.01.24-16.27.34:014][226]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.27.34:042][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.01.24-16.27.34:056][226]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.01.24-16.27.35:179][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.27.43:301][315]Cmd: EDIT COPY
+[2021.01.24-16.27.43:605][351]Cmd: EDIT PASTE
+[2021.01.24-16.28.53:544][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.28.59:622][ 80]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.29.03:155][485]Cmd: DELETE
+[2021.01.24-16.29.03:177][485]Cmd: ACTOR DELETE
+[2021.01.24-16.29.03:184][485]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.29.03:212][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.24-16.29.03:224][485]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.01.24-16.29.04:919][687]Cmd: TRANSACTION UNDO
+[2021.01.24-16.29.04:919][687]LogEditorTransaction: Undo Delete Actors
+[2021.01.24-16.29.05:990][802]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.29.06:894][905]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.29.13:396][654]Cmd: DELETE
+[2021.01.24-16.29.13:397][654]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.01.24-16.29.13:397][654]LogGeometryMode: Warning: Unable to resolve BoxBrush25_33 Brush in new BSP, see above
+[2021.01.24-16.29.13:397][654]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.29.14:188][743]Cmd: DELETE
+[2021.01.24-16.29.14:214][743]Cmd: ACTOR DELETE
+[2021.01.24-16.29.14:221][743]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.29.14:250][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.24-16.29.14:264][743]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.01.24-16.29.15:871][935]Cmd: TRANSACTION UNDO
+[2021.01.24-16.29.15:871][935]LogEditorTransaction: Undo Delete Actors
+[2021.01.24-16.29.26:659][150]Cmd: DELETE
+[2021.01.24-16.29.26:686][150]Cmd: ACTOR DELETE
+[2021.01.24-16.29.26:694][150]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.29.26:722][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.24-16.29.26:736][150]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.01.24-16.29.27:981][298]Cmd: TRANSACTION UNDO
+[2021.01.24-16.29.27:981][298]LogEditorTransaction: Undo Delete Actors
+[2021.01.24-16.29.30:313][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.29.33:154][906]Cmd: DELETE
+[2021.01.24-16.29.33:177][906]Cmd: ACTOR DELETE
+[2021.01.24-16.29.33:185][906]LogEditorActor: Deleted Actor: Brush
+[2021.01.24-16.29.33:212][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.24-16.29.33:225][906]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.01.24-16.29.35:335][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.29.37:335][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.29.39:111][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.24-16.29.39:134][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.24-16.29.39:510][609]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start240F47EC4978B51B643901839C439CF9.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap'
+[2021.01.24-16.29.39:544][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start_BuiltData" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset" SILENT=true
+[2021.01.24-16.29.39:574][609]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start_BuiltData8FDB0CE54F3A2FC41787D694D31F585B.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start_BuiltData.uasset'
+[2021.01.24-16.29.40:925][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.29.41:924][888]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.24-16.29.46:832][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.30.21:519][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.30.34:552][ 56]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.30.37:243][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.30.44:590][242]Cmd: TRANSACTION UNDO
+[2021.01.24-16.30.44:590][242]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.30.44:986][285]Cmd: TRANSACTION UNDO
+[2021.01.24-16.30.44:986][285]LogEditorTransaction: Undo Select Brush Surface
+[2021.01.24-16.30.45:964][398]Cmd: TRANSACTION UNDO
+[2021.01.24-16.30.45:964][398]LogEditorTransaction: Undo Modifier [Edit]
+[2021.01.24-16.30.46:541][465]Cmd: TRANSACTION UNDO
+[2021.01.24-16.30.46:541][465]LogEditorTransaction: Undo Modifier [Triangulate]
+[2021.01.24-16.30.49:445][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.30.56:177][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.30.58:954][893]Cmd: TRANSACTION UNDO
+[2021.01.24-16.30.58:954][893]LogEditorTransaction: Undo Modifier [Optimize]
+[2021.01.24-16.31.08:639][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.31.17:720][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.31.18:863][198]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush25)
+[2021.01.24-16.31.22:401][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.31.27:185][166]Cmd: TRANSACTION UNDO
+[2021.01.24-16.31.27:185][166]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.31.27:212][166]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.01.24-16.31.27:212][166]LogGeometryMode: Warning: Unable to resolve BoxBrush25_35 Brush in new BSP, see above
+[2021.01.24-16.31.27:212][166]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.01.24-16.31.40:083][654]LogEditorViewport: Clicking Background
+[2021.01.24-16.31.43:090][  1]Cmd: EDCALLBACK SURFPROPS
+[2021.01.24-16.31.51:468][975]LogEditorViewport: Clicking Background
+[2021.01.24-16.31.51:883][ 24]Cmd: TRANSACTION UNDO
+[2021.01.24-16.31.51:883][ 24]LogEditorTransaction: Undo Move Actors
+[2021.01.24-16.31.53:374][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.24-16.31.53:515][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.24-16.31.54:905][211]LogSlate: Window 'Save Content' being destroyed
+[2021.01.24-16.31.54:916][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.24-16.31.54:932][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerPawn" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Blueprints/BP_PlayerPawn.uasset" SILENT=true
+[2021.01.24-16.31.54:969][211]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/BP_PlayerPawn58ED56F6430415074E79B2A859971999.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Blueprints/BP_PlayerPawn.uasset'
+[2021.01.24-16.31.54:974][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Start" FILE="../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.24-16.31.54:998][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.24-16.31.55:273][211]LogSavePackage: Moving '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Saved/Start046552DC4171085C44FF1B8119065F5B.tmp' to '../../../../../studia/programowanie/ballrunner/P2_ASamborska/Content/Levels/Start.umap'
+[2021.01.24-16.31.55:299][211]LogFileHelpers: Saving map 'Start' took 0.326
+[2021.01.24-16.31.55:356][211]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.01.24-16.31.55:460][211]LogSlate: Window 'P2_ASamborska - Unreal Editor' being destroyed
+[2021.01.24-16.31.55:461][211]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.24-16.31.55:640][212]Cmd: QUIT_EDITOR
+[2021.01.24-16.31.56:329][212]LogExit: Preparing to exit.
+[2021.01.24-16.31.57:318][212]LogDirectoryWatcher: A directory notification failed for 'D:/studia/programowanie/ballrunner/P2_ASamborska/Content/', and we were unable to create a new request.
+[2021.01.24-16.31.57:362][212]LogExit: Editor shut down
+[2021.01.24-16.31.57:363][212]LogExit: Transaction tracking system shut down
+[2021.01.24-16.31.57:715][212]LogExit: Object subsystem successfully closed.
+[2021.01.24-16.31.57:736][212]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.24-16.31.57:745][212]LogD3D11RHI: Shutdown
+[2021.01.24-16.31.57:745][212]LogD3D11RHI: CleanupD3DDevice
+[2021.01.24-16.31.57:746][212]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.24-16.31.57:747][212]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.24-16.31.57:747][212]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.24-16.31.57:747][212]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.24-16.31.57:747][212]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.24-16.31.57:747][212]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.24-16.31.57:833][212]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.01.24-16.31.57:842][212]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2021.01.24-16.31.57:842][212]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2021.01.24-16.31.57:842][212]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2021.01.24-16.31.57:842][212]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2021.01.24-16.31.57:842][212]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2021.01.24-16.31.57:842][212]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2021.01.24-16.31.57:844][212]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2021.01.24-16.31.57:844][212]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2021.01.24-16.31.57:844][212]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2021.01.24-16.31.57:845][212]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2021.01.24-16.31.57:846][212]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2021.01.24-16.31.58:867][212]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2021.01.24-16.31.58:868][212]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2021.01.24-16.31.58:912][212]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2021.01.24-16.31.58:916][212]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2021.01.24-16.31.58:917][212]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2021.01.24-16.31.58:917][212]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2021.01.24-16.31.58:917][212]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2021.01.24-16.31.58:917][212]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2021.01.24-16.31.58:917][212]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2021.01.24-16.31.58:917][212]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2021.01.24-16.31.58:919][212]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2021.01.24-16.31.59:037][212]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2021.01.24-16.31.59:038][212]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2021.01.24-16.31.59:039][212]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2021.01.24-16.31.59:039][212]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2021.01.24-16.31.59:140][212]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2021.01.24-16.31.59:241][212]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2021.01.24-16.31.59:241][212]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2021.01.24-16.31.59:242][212]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2021.01.24-16.31.59:242][212]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2021.01.24-16.31.59:242][212]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2021.01.24-16.31.59:242][212]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2021.01.24-16.31.59:243][212]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2021.01.24-16.31.59:244][212]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2021.01.24-16.31.59:244][212]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2021.01.24-16.31.59:244][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2021.01.24-16.31.59:244][212]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2021.01.24-16.31.59:244][212]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2021.01.24-16.31.59:244][212]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2021.01.24-16.31.59:245][212]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module Core (174)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2021.01.24-16.31.59:247][212]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2021.01.24-16.31.59:278][212]LogDerivedDataCache: Shutdown
+[2021.01.24-16.31.59:278][212]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2021.01.24-16.31.59:278][212]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2021.01.24-16.31.59:278][212]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2021.01.24-16.31.59:278][212]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2021.01.24-16.31.59:278][212]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2021.01.24-16.31.59:279][212]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2021.01.24-16.31.59:287][212]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2021.01.24-16.31.59:287][212]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2021.01.24-16.31.59:287][212]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2021.01.24-16.31.59:287][212]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2021.01.24-16.31.59:287][212]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2021.01.24-16.31.59:291][212]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2021.01.24-16.31.59:291][212]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2021.01.24-16.31.59:293][212]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2021.01.24-16.31.59:293][212]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2021.01.24-16.31.59:319][212]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2021.01.24-16.31.59:320][212]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2021.01.24-16.31.59:320][212]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2021.01.24-16.31.59:320][212]LogHMD: Freeing OpenVRDLLHandle.
+[2021.01.24-16.31.59:320][212]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2021.01.24-16.31.59:320][212]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2021.01.24-16.31.59:320][212]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2021.01.24-16.31.59:320][212]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2021.01.24-16.31.59:320][212]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2021.01.24-16.31.59:321][212]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2021.01.24-16.31.59:321][212]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2021.01.24-16.31.59:338][212]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2021.01.24-16.31.59:338][212]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.01.24-16.31.59:338][212]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BD38288-42DE-D6F4-2C6F-CCADDE58FA3B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=cdb198664982af0f3014c2b66284cafc%7C549ae420339d4beaabf523fc23eeead1%7Ce167c850-55ea-4eb5-853b-0ae92da66a78&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.01.24-16.31.59:372][212]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2021.01.24-16.31.59:373][212]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2021.01.24-16.31.59:374][212]LogModuleManager: Shutting down and abandoning module Media (45)
+[2021.01.24-16.31.59:381][212]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2021.01.24-16.31.59:381][212]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2021.01.24-16.31.59:381][212]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.24-16.31.59:381][212]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.24-16.31.59:382][212]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.24-16.31.59:382][212]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.24-16.31.59:382][212]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.24-16.31.59:382][212]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.24-16.31.59:382][212]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.24-16.31.59:383][212]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.24-16.31.59:391][212]LogExit: Exiting.
+[2021.01.24-16.31.59:437][212]Log file closed, 01/24/21 17:31:59
